@@ -52,7 +52,7 @@ const MainCard = () => {
           >
             <FaChevronLeft className="text-white cursor-pointer" size={21} />
           </span>
-          <p className="mx-10 font-semibold text-[#212B37]">
+          <p className="mx-5 md:mx-10 font-semibold text-[#212B37]">
             {count + "/" + total}
           </p>{" "}
           <span
