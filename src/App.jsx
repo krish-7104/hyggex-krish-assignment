@@ -9,7 +9,7 @@ import FAQ from "./Components/FAQ";
 
 const App = () => {
   return (
-    <section className="max-w-6xl mx-auto">
+    <section className="max-w-6xl mx-auto w-[90%]">
       <Navbar />
       <Breadcrumb />
       <Title title={"Relations and Functions (Mathematics)"} />

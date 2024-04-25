@@ -24,7 +24,7 @@ const MainCard = () => {
   return (
     <section className=" w-[90%] md:w-[45%]  mx-auto my-8">
       <div
-        className="w-full h-[40vh] md:h-[45vh] rounded-[35px] flex justify-center items-center flex-col relative"
+        className="w-full h-[260px] md:h-[300px] rounded-[35px] flex justify-center items-center flex-col relative"
         style={{
           background:
             "linear-gradient(222.94deg, #051A91 -4.31%, #061C93 14.41%, #2284F1 81.88%, #1F80EB 103.81%)",
