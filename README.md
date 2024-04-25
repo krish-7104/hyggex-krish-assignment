@@ -1,8 +1,23 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Hyggex Assignment
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+## Installation
+
+
+```bash
+  git clone https://github.com/krish-7104/hyggex-krish-assignment.git
+  cd hyggex-krish-assignment
+  npm install
+  npm run dev
+```
+    
+## Demo
+
+Vercel: https://hyggex-assignment-krish.vercel.app/
+
+Video: https://drive.google.com/file/d/1M8zSXzUac8QhgiXMXfXXfEPNS0m_lma7/view?usp=sharing
+
+
