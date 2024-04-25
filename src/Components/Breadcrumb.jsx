@@ -15,7 +15,7 @@ const Breadcrumb = () => {
         Mathematics
       </span>
       <FaChevronRight className="text-[#06286E] mx-2" size={12} />
-      <span className="text-[#06286E] font-semibold text-sm md:text-base">
+      <span className="text-[#06286E] font-semibold text-sm md:text-base cursor-pointer">
         Relation and Function
       </span>
     </div>

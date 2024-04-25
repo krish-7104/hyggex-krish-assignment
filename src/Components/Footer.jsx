@@ -6,7 +6,7 @@ import { GrAdd } from "react-icons/gr";
 const Footer = () => {
   return (
     <footer className="my-5 flex justify-between items-center flex-col-reverse md:flex-row">
-      <div className="flex items-center mt-4 md:mt-0">
+      <div className="flex items-center mt-4 md:mt-0 cursor-pointer">
         <div
           className="rounded-full p-3 mr-5"
           style={{
@@ -22,7 +22,7 @@ const Footer = () => {
           <img src={namelogo} width={90} />
         </div>
       </div>
-      <div className="flex justify-center items-center mt-4 md:mt-0">
+      <div className="flex justify-center items-center mt-4 md:mt-0 cursor-pointer">
         <span className="flex justify-center items-center p-2 rounded-full bg-gradient-to-b from-[#06286E] to-[#164EC0]">
           <GrAdd className="text-white cursor-pointer" size={20} />
         </span>
