@@ -8,7 +8,7 @@ const Menu = () => {
   };
 
   return (
-    <ul className="flex justify-evenly items-center w-[50%] mt-10 mx-auto">
+    <ul className="flex justify-evenly items-center w-[90%] md:w-[50%] mt-8 mx-auto">
       <li
         className={`cursor-pointer ${
           active === "Study"
