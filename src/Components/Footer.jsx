@@ -7,7 +7,12 @@ const Footer = () => {
   return (
     <footer className="my-5 flex justify-between items-center flex-col-reverse md:flex-row">
       <div className="flex items-center mt-4 md:mt-0">
-        <div className="rounded-full p-3 shadow-xl inset-0 mr-5 shadow-[#051A9130]">
+        <div
+          className="rounded-full p-3 mr-5"
+          style={{
+            boxShadow: "0 0 10px #051A9160",
+          }}
+        >
           <img src={logo} width={40} height={40} className="aspect-square" />
         </div>
         <div className="relative">
